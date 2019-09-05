@@ -7,4 +7,3 @@ test:
 production:
   adapter: redis
   url: redis://redistogo:078967a9d9c191a57d27a1bff4e690fa@hammerjaw.redistogo.com:11421/
-  channel_prefix: message_me_production
